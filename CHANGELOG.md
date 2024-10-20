@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.52.1 (2024-10-20)
+
+Full Changelog: [v1.52.0...v1.52.1](https://github.com/openai/openai-python/compare/v1.52.0...v1.52.1)
+
+### Chores
+
+* **internal:** bump ruff dependency ([#1801](https://github.com/openai/openai-python/issues/1801)) ([859c672](https://github.com/openai/openai-python/commit/859c6725865f1b3285698f68693f9491d511f7ea))
+* **internal:** update test syntax ([#1798](https://github.com/openai/openai-python/issues/1798)) ([d3098dd](https://github.com/openai/openai-python/commit/d3098dd0b9fbe627c21a8ad39c119d125b7cdb54))
+
 ## 1.52.0 (2024-10-17)
 
 Full Changelog: [v1.51.2...v1.52.0](https://github.com/openai/openai-python/compare/v1.51.2...v1.52.0)
